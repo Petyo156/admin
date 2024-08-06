@@ -8,6 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan(basePackages = "com.tinqinacademy.admin")
 public class Main {
     public static void main(String[] args) {
+        //run
         SpringApplication.run(Main.class, args);
     }
 }
